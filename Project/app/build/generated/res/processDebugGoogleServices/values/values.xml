@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://dacs-3-5b11d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">216713961143</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXFnhwA8sS7c3w2OlXgEbLoxrAEjqBHFg</string>
+    <string name="google_app_id" translatable="false">1:216713961143:android:d03e75b745fa1f5c397732</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXFnhwA8sS7c3w2OlXgEbLoxrAEjqBHFg</string>
+    <string name="google_storage_bucket" translatable="false">dacs-3-5b11d.firebasestorage.app</string>
+    <string name="project_id" translatable="false">dacs-3-5b11d</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Smart Shop</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem30">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam odio debitis dolores enim numquam! Quis distinctio repellat iure. Neque sapiente recusandae cumque quos, dignissimos odio molestias ipsum magnam rem aliquam!
+  Nemo alias reiciendis, modi maxime molestiae optio sapiente. Dolor incidunt ipsa quibusdam, culpa amet ut dicta nihil, reprehenderit nemo, voluptatibus assumenda reiciendis. Culpa dolore id expedita quidem similique! Aperiam, asperiores.
+  Quaerat excepturi doloribus ratione, natus quidem neque iste dolorem! Fuga ipsam ratione quos ipsa incidunt harum aut ducimus, molestiae dolores voluptas distinctio obcaecati sequi velit odio cumque vero eveniet accusantium!
+  Asperiores fugit, aut facere et explicabo quibusdam. Sunt in doloribus qui corporis ab repellendus expedita. Asperiores aliquid eligendi officiis molestiae autem, laborum exercitationem fuga, aliquam nam eveniet atque cumque praesentium.
+  Animi sit, tempore minima cumque suscipit sapiente ex architecto, voluptatum velit numquam aliquid qui iste officia enim atque mollitia officiis libero magni blanditiis omnis? Rem tenetur neque non nulla nam?
+  Nobis aperiam praesentium molestias asperiores! Eligendi temporibus reprehenderit nihil voluptates repellendus molestias! Perferendis recusandae sunt, quibusdam tempora suscipit cupiditate facilis quam! Minima nostrum adipisci accusamus id. Mollitia dolore rerum aspernatur.
+  Iure ad fugit quisquam alias dolores impedit in et dignissimos illo culpa rerum ratione eligendi placeat qui, cum, dolorum suscipit eveniet assumenda at iusto. Reprehenderit sint aut culpa fugiat fugit!</string>
+    <string name="lorem10">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, eveniet.</string>
+    <!--    login-->
+    <string name="login_title">Bạn \nđã có \ntài khoản?</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_matkhau_hint">Mật Khẩu</string>
+    <string name="login_text_not_account">Bạn chưa có tài khoản? <font color="red">Đăng Ký ngay</font></string>
+    <string name="login_user_method">Use Other Methods</string>
+    <!--    register-->
+    <string name="register_title">Tạo \ntài khoản \ncho riêng bạn</string>
+    <string name="register_ten_hint">Tên</string>
+    <string name="register_email_hint">Email</string>
+    <string name="register_SDT_hint">Số Điện Thoại</string>
+    <string name="register_matkhau_hint">Mật Khẩu</string>
+</resources>

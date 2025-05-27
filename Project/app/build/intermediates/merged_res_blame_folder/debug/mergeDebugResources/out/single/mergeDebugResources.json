@@ -1,0 +1,794 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_error1.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_error1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ao.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_buy_online.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_buy_online.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_avt.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\avt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_info_profile.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_info_profile.xml"
+    },
+    {
+        "merged": "com.example.project.app-debug-92:/layout_activity_buy_online.xml.flat",
+        "source": "com.example.project.app-main-94:/layout/activity_buy_online.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_order.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_back_momo.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_back_momo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_italic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_nav_box.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_nav_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_slider_item_containner.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_slider_item_containner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_count_sub.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_count_sub.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_tick.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_tick.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_edt_info.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\edt_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_result_find.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_result_find.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\color_nav_item_color.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_buy_success.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_buy_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_order_item.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_dialog_info.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_dialog_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_evaluate.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_sent.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_backgr_box.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\backgr_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_close1.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_close1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_progress_bar.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_backgr_edt.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\backgr_edt.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_select_discount.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_select_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_background_flat.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\background_flat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_quan.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\quan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_img_nav.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_img_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_hot.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_hot.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_sub.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_sub.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_progress.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bottomnav_item_select.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bottomnav_item_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_evaluate1.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_evaluate1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_product.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_toolbar.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_bottomnav.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_bottomnav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_edt_evaluate.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_edt_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_item_list_pic.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_item_list_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_google.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_pr4.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\pr4.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_cho_xac_nhan.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_cho_xac_nhan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_form_dialog_info.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\form_dialog_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_discount.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_thinitalic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_select_img.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_select_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_back_2.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_back_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_advertisement.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\advertisement.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_form_evaluate.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\form_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_tickv.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_tickv.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_star_fill.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\star_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_item_bell.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_item_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_extralightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_back_3.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_back_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_txt_receive_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\txt_receive_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_evaluate.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_img_product.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_img_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_img.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_default_pic_bg.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\default_pic_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_edit_profile.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_extrabold.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_access.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_access.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_my_order.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\my_order.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_receive.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\menu_profile.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\menu\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_confirm_buy.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_confirm_buy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_form_dialog_register.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\form_dialog_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_out.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_select_momo.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_select_momo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_da_huy.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_da_huy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_btn_transp.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_btn_transp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_item_discount.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_item_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_pr1.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\pr1.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_buy.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_buy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_khuyen_mai.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\khuyen_mai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_black.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_error.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_star_border.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\star_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_service.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_up.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_backgr_imgbtn.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\backgr_imgbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_form_slide.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\form_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_down.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_info.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_nav_momo.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_nav_momo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_profile.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_order.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_login.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_send.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_send.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_pr3.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\pr3.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_evaluate.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_bell.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_form_dialog_info.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\form_dialog_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_myorder.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_myorder.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_blackitalic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_discount.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_cate3.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\cate3.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_clo.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_clo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_discount.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\discount.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_bolditalic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_eye.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_cate2.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\cate2.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_form_evaluate.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_form_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_evaluate.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_da_nhan_hang.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_da_nhan_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_nav.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_cate1.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\cate1.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_selected_pic_bg.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\selected_pic_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_extrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_find_product.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_find_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_cate4.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\cate4.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_order_item.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_back_1.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_back_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_extralight.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_extralight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_item_cart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_da_xac_nhan.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_da_xac_nhan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_register_linearlayout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\register_linearlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_star.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\star.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_bell_.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_bell_.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_dialog.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_item_confirmbuy.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_item_confirmbuy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_select_img.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_select_img.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_semibolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_chat.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_list_product_find1.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_list_product_find1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_tool_bar.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_back.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_count_add.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_count_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_btn_select_discount.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\btn_select_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_person_chat.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_person_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_lightialic.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_lightialic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_light.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_grey_bg.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\grey_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_fragment_dang_giao_hang.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_dang_giao_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_discount.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_count.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_count.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\layout_row_discount.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_form_edt.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\form_edt.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_pr2.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\pr2.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_bg_btn_momo.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\bg_btn_momo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_ic_order.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\ic_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\drawable_progress_scr.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\drawable\\progress_scr.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-debug-92:\\font_poppins_thin.ttf.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\font\\poppins_thin.ttf"
+    }
+]

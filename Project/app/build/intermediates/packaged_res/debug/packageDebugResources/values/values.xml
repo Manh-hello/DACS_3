@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#6ec6e4</color>
+    <color name="bluemore">#11CFC5</color>
+    <color name="darkGrey">#616161</color>
+    <color name="green">#39c75a</color>
+    <color name="green2">#35c3a2</color>
+    <color name="grey">#919191</color>
+    <color name="grey1">#f5f5f5</color>
+    <color name="grey2">#e9e9e9</color>
+    <color name="lightBlue">#E8F9FF</color>
+    <color name="lightGreen">#83d044</color>
+    <color name="lightGrey">#e9e9e9</color>
+    <color name="lightOrange">#FFECDB</color>
+    <color name="lightPing">#FFEDFA</color>
+    <color name="orange">#FA7701</color>
+    <color name="ping">#fdcadd</color>
+    <color name="purple">#9475EB</color>
+    <color name="red">#EC5228</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Smart Shop</string>
+    <string name="firebase_database_url" translatable="false">https://dacs-3-5b11d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">216713961143</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXFnhwA8sS7c3w2OlXgEbLoxrAEjqBHFg</string>
+    <string name="google_app_id" translatable="false">1:216713961143:android:d03e75b745fa1f5c397732</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXFnhwA8sS7c3w2OlXgEbLoxrAEjqBHFg</string>
+    <string name="google_storage_bucket" translatable="false">dacs-3-5b11d.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_matkhau_hint">Mật Khẩu</string>
+    <string name="login_text_not_account">Bạn chưa có tài khoản? <font color="red">Đăng Ký ngay</font></string>
+    <string name="login_title">Bạn \nđã có \ntài khoản?</string>
+    <string name="login_user_method">Use Other Methods</string>
+    <string name="lorem10">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, eveniet.</string>
+    <string name="lorem30">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam odio debitis dolores enim numquam! Quis distinctio repellat iure. Neque sapiente recusandae cumque quos, dignissimos odio molestias ipsum magnam rem aliquam!
+  Nemo alias reiciendis, modi maxime molestiae optio sapiente. Dolor incidunt ipsa quibusdam, culpa amet ut dicta nihil, reprehenderit nemo, voluptatibus assumenda reiciendis. Culpa dolore id expedita quidem similique! Aperiam, asperiores.
+  Quaerat excepturi doloribus ratione, natus quidem neque iste dolorem! Fuga ipsam ratione quos ipsa incidunt harum aut ducimus, molestiae dolores voluptas distinctio obcaecati sequi velit odio cumque vero eveniet accusantium!
+  Asperiores fugit, aut facere et explicabo quibusdam. Sunt in doloribus qui corporis ab repellendus expedita. Asperiores aliquid eligendi officiis molestiae autem, laborum exercitationem fuga, aliquam nam eveniet atque cumque praesentium.
+  Animi sit, tempore minima cumque suscipit sapiente ex architecto, voluptatum velit numquam aliquid qui iste officia enim atque mollitia officiis libero magni blanditiis omnis? Rem tenetur neque non nulla nam?
+  Nobis aperiam praesentium molestias asperiores! Eligendi temporibus reprehenderit nihil voluptates repellendus molestias! Perferendis recusandae sunt, quibusdam tempora suscipit cupiditate facilis quam! Minima nostrum adipisci accusamus id. Mollitia dolore rerum aspernatur.
+  Iure ad fugit quisquam alias dolores impedit in et dignissimos illo culpa rerum ratione eligendi placeat qui, cum, dolorum suscipit eveniet assumenda at iusto. Reprehenderit sint aut culpa fugiat fugit!</string>
+    <string name="project_id" translatable="false">dacs-3-5b11d</string>
+    <string name="register_SDT_hint">Số Điện Thoại</string>
+    <string name="register_email_hint">Email</string>
+    <string name="register_matkhau_hint">Mật Khẩu</string>
+    <string name="register_ten_hint">Tên</string>
+    <string name="register_title">Tạo \ntài khoản \ncho riêng bạn</string>
+    <style name="Base.Theme.Project" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="BottomNavTextStyle">
+        <item name="android:textSize">11sp</item>
+        <item name="android:paddingTop">10dp</item>
+    </style>
+    <style name="CustomBottomNav" parent="Widget.Material3.BottomNavigationView">
+        <item name="itemActiveIndicatorStyle">@style/CustomIndicator</item>
+    </style>
+    <style name="CustomIndicator">
+        <item name="android:height">40dp</item>
+        <item name="android:width">80dp</item>
+        <item name="shapeAppearance">@style/RoundedCorners</item>
+        <item name="android:colorBackground">@color/blue</item>
+    </style>
+    <style name="CustomRatingBar" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#fff</item>
+        <item name="colorControlActivated">#FDD835</item>
+        <item name="android:progressTint">#FDD835</item>
+    </style>
+    <style name="RoundedCorners" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+    <style name="Theme.Project" parent="Base.Theme.Project"/>
+    <style name="dialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+    </style>
+</resources>

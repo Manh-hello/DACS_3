@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\form_dialog_register.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\form_dialog_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_da_xac_nhan.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_da_xac_nhan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_find_product.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_find_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_order.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_nav.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\sent.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\sent.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_item_cart.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_product.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_buy_online.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_buy_online.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_discount.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\tool_bar.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\tool_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\receive.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_item_confirmbuy.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_item_confirmbuy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_discount.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_cho_xac_nhan.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_cho_xac_nhan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_slider_item_containner.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_slider_item_containner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_da_huy.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_da_huy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_list_product_find1.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_list_product_find1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\form_dialog_info.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\form_dialog_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_person_chat.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_person_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_result_find.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_result_find.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_evaluate.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_item_list_pic.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_item_list_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_dang_giao_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_dang_giao_hang.xml"
+    },
+    {
+        "merged": "com.example.project.app-mergeDebugResources-91:/layout/activity_buy_online.xml",
+        "source": "com.example.project.app-main-94:/layout/activity_buy_online.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\form_evaluate.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\form_evaluate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_img_product.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_img_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_confirm_buy.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_confirm_buy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_product_detail.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_da_nhan_hang.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_da_nhan_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_order.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_bell_.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_bell_.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_order_item.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_item_bell.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_item_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\row_select_discount.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\row_select_discount.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_buy_success.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_buy_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-mergeDebugResources-91:\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\ADMIN\\.gradle\\daemon\\8.9\\com.example.project.app-main-94:\\layout\\activity_cart.xml"
+    }
+]
