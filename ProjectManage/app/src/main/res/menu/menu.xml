@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Trang Chủ"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/home"/>
+    <item android:id="@+id/product"
+        android:icon="@drawable/ic_product"
+        android:title="Sản Phẩm"/>
+    <item android:id="@+id/discount"
+        android:icon="@drawable/ic_discount"
+        android:title="Mã giảm giá"/>
+    <item android:id="@+id/setting"
+        android:icon="@drawable/ic_setting"
+        android:title="Cài Đặt"/>
+</menu>

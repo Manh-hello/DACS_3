@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "216713961143",
+    "firebase_url": "https://dacs-3-5b11d-default-rtdb.firebaseio.com",
+    "project_id": "dacs-3-5b11d",
+    "storage_bucket": "dacs-3-5b11d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216713961143:android:d03e75b745fa1f5c397732",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFnhwA8sS7c3w2OlXgEbLoxrAEjqBHFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216713961143:android:3cbf7df7bd84ed67397732",
+        "android_client_info": {
+          "package_name": "com.example.projectmanage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFnhwA8sS7c3w2OlXgEbLoxrAEjqBHFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216713961143:android:15ac19e5770cb0ee397732",
+        "android_client_info": {
+          "package_name": "com.example.ship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXFnhwA8sS7c3w2OlXgEbLoxrAEjqBHFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
